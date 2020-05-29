@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstLook</string>
+    <string name="button">Button</string>
+    <string name="hello_my_firstlook">Hello my firstLook!</string>
+    <string name="mybutton">mybutton</string>
+    <string name="hello">hello</string>
+</resources>
