@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">FirstLook</string>
-    <string name="button">Button</string>
+    <string name="button_name">Show me </string>
     <string name="hello_my_firstlook">Hello my firstLook!</string>
-    <string name="mybutton">mybutton</string>
-    <string name="hello">hello</string>
+    <string name="mybutton"> my button</string>
+    <string name="hi"> Hi </string>
+    <string name="Show_Text">I love you </string>
+
 </resources>
